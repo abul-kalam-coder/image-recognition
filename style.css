@@ -1,0 +1,18 @@
+body {
+    background-color: deepskyblue;
+}
+
+.objects,#Objects,#Accuracy {
+color:yellow;
+
+}
+.header {
+    width: 80%;
+    font-size:30px;
+}
+
+#camera ,#result {
+    width:350px;
+    height:300px;
+    border:2px solid orange;
+}
